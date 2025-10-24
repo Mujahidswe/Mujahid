@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mujahids
+- 👋 Hi, I’m Mujahid
 - 👀 I’m interested in Cyber security 
 - 🌱 I’m currently learning SWE
 - 💞️ I’m looking to collaborate on Computer Networking
